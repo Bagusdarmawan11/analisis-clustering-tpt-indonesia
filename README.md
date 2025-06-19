@@ -49,8 +49,7 @@ Model berhasil mengidentifikasi dua kelompok provinsi dengan karakteristik yang 
 ### 3. Visualisasi Hasil Clustering (PCA)
 Visualisasi PCA secara efektif menunjukkan bagaimana kedua cluster ini terpisah dengan baik dalam ruang fitur yang telah direduksi.
 
-![PCA Cluster Visualization](img/pca_visualization.png)
-*Catatan: Ganti `img/pca_visualization.png` dengan path gambar visualisasi PCA Anda.*
+![PCA Cluster Visualization](https://github.com/Bagusdarmawan11/analisis-clustering-tpt-indonesia/blob/main/assets/visualisasi-pca.png)
 
 ### 4. Daftar Provinsi per Cluster
 
