@@ -36,8 +36,7 @@ Analisis ini dilakukan melalui beberapa tahapan standar dalam proyek Data Scienc
 ### 1. Penentuan Jumlah Cluster
 Berdasarkan **Elbow Method**, jumlah cluster yang paling optimal adalah **2**. Grafik di bawah menunjukkan "titik siku" yang jelas pada `k=2`, di mana penambahan cluster selanjutnya tidak memberikan penurunan *inertia* yang signifikan.
 
-![Elbow Method Plot](img/elbow_plot.png)
-*Catatan: Ganti `img/elbow_plot.png` dengan path gambar plot siku Anda.*
+![Elbow Method Plot](https://github.com/Bagusdarmawan11/analisis-clustering-tpt-indonesia/blob/main/assets/plot-siku.png)
 
 ### 2. Profil Cluster
 Model berhasil mengidentifikasi dua kelompok provinsi dengan karakteristik yang sangat berbeda:
